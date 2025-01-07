@@ -1,4 +1,4 @@
-# Analyze-avulnerable-system
+# Analyze-a-vulnerable-system
 
 Activity Overview
 
